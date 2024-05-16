@@ -8,7 +8,7 @@ El modelo tiene una precisión del 92.5%, un recall del 85% y un F1-score del 85
 
   Cómo Ejecutar el Código
 
-Para ejecutar este código, necesitarás tener instalado Python 3 y las siguientes bibliotecas: [lista de bibliotecas necesarias]. Una vez que tengas todo instalado, puedes ejecutar el código con el siguiente comando:
+Para ejecutar este código, necesitarás tener instalado Python 3 y las siguientes bibliotecas: [numpy, pandas, seaborn, sklearn]. Una vez que tengas todo instalado, puedes ejecutar el código con el siguiente comando:
 
 
 python3 primero.py
